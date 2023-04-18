@@ -6,3 +6,11 @@ If the product is in stock, the bot sends a text message notification using the 
 The bot can be customized to check the availability of any product on any website. Simply update the product URL and phone number in the script to fit your needs. Additionally, the TextBelt API can be replaced with any other SMS API service, and the bot can be adapted to work with that service.
 
 Overall, this bot is a useful tool for anyone who wants to stay informed about the availability of a particular product online. It can save time and effort by automatically checking for product availability, so you don't have to keep refreshing the product page manually.
+
+## useage
+- add scripts in `python_files` to check products
+- each script is 1 website
+
+## execution
+
+`python 0_runner.py`
